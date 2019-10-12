@@ -1,0 +1,12 @@
+# Site settings
+title: Legion Hacking
+email:
+description: Community Site
+baseurl:
+url:
+twitter_username:
+github_username: Legion Hacking
+
+# Build settings
+markdown: kramdown
+permalink: pretty
